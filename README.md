@@ -1,4 +1,4 @@
-# Hi, I'm <your name> 👋
+# Hi, I'm PauKoaye 👋
 
 I'm a student of electronic engineering and telecommunications at Polytechnic University of Bucharest. I'm passionate about technology, innovation, and problem-solving. I have experience in programming languages such as C, C++, C#, Python, Java, and JavaScript, as well as web development technologies like HTML and CSS. I also have skills in using tools like Arduino, Raspberry Pi, and LabVIEW. 
 
