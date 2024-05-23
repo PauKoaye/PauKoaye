@@ -7,8 +7,6 @@ I'm a student of electronic engineering and telecommunications at Polytechnic Un
 Here are some of the projects that I have worked on or contributed to:
 
 - Smart Home System: A system that uses Arduino and Raspberry Pi to control and monitor various aspects of a home, such as temperature, humidity, lighting, security, and energy consumption.
-- Image Processing: A collection of Python scripts that perform various image processing tasks, such as edge detection, filtering, segmentation, face recognition, and object detection.
 - Wireless Communication: A Java application that simulates the transmission and reception of digital signals over a wireless channel, using different modulation and coding schemes.
-- Signal Processing: A MATLAB toolbox that implements various signal processing algorithms, such as Fourier transform, convolution, filtering, and spectrum analysis.
 - Web Development: A portfolio of web applications that showcase my web development skills, such as a calculator, a quiz, a blog, and a chat app.
 - Discord Bot: A discord bot that I created for the server I made to chat with my friends at 14 years old. The bot can perform various functions, such as playing music, sending memes, moderating messages, and hosting games.
